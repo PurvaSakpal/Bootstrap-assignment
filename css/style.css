@@ -1,0 +1,59 @@
+.bg{background: rgb(242, 242, 252);}
+.carousel-caption {
+    top: 35%;
+    margin-right: 700px;
+    margin-left: 0%;
+  }
+  .hr1 {
+    width: 50%;
+    height: 1px;
+    margin-left: 0;
+    margin-bottom: 0%;
+  }
+  .hr2 {
+    width: 20%;
+    height: 0.5px;
+    margin-left: 0;
+    margin-top: 1.5px;
+  }
+  .divider{
+      text-align: center;
+      margin:0%;
+      padding:0%;
+  }
+  .wi button{
+      width: 32%;
+      border-radius: 0%;
+  }
+  .card{
+      border: 0%;
+      box-shadow: 0;
+      border-radius: 0%;
+}
+.red-color{
+    color: red;
+}
+.blue-color{
+    color: blue;
+}
+.purple-color{
+    color: purple;
+}
+.im{
+    height: 500px;
+}
+.bi-star-fill,
+.bi-star-half {
+              color: rgb(255, 145, 0);
+          }
+  
+.bi-star 
+{
+    color: rgb(255, 145, 0);
+}
+.bgimg{
+    background: url('../img/beach.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
